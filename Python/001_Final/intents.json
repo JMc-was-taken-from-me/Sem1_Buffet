@@ -1,0 +1,126 @@
+{
+	"intents":[
+		{
+			"tag": "greeting",
+			"patterns": ["hello", "hey", "dear", "hi", "good morning", "how are you", "good afternoon", "sup", "what's up", "yo", "what's good", "greetings", "bonjour", "'ello govnah", "hola", "salut" ],
+			"responses": ["bye.", "*dies of cringe*", "pls no", "yurrrrrrr", "[the bot no longer wishes to converse]"]
+		},
+
+		{
+			"tag": "bye",
+			"patterns": ["bye", "cya", "good bye", "goodbye", "adios", "cya", "bye bye", "later", "see ya", "gtg", "baiiiii"],
+			"responses": ["leave.", "THANK THE LORD", "please, never come back", "[the bot is happy you are gone]", "I thought it would never end"]
+		},
+		{
+			"tag": "1grit",
+			"patterns": ["1grit", "one grit", "grit", "dank rock", "rock"],
+			"responses": ["here comes the 1 grit to smash your fingers(you deserve it)", "the patio rock is en route to your residence, and running is futile"]
+		},
+		{
+			"tag": "frank",
+			"patterns": ["snake", "snek", "noodle", "noodler", "frank", "franky"],
+			"responses": ["[frank does nothing]", "frank smells", "frank slithers back into her hidey hole"]
+		},
+		{
+			"tag": "quail",
+			"patterns": ["quail", "quails", "coturnix coturnix"],
+			"responses": ["...didn't you know", "oh no, you must be an idiot", "I'm trying to think of a much stronger word for 'no'", "frank is BANNED from quails"]
+		},
+		{
+			"tag": "u-pull-it",
+			"patterns": ["u-pull-it", "u pull it", "you pull it", "gillman"],
+			"responses": ["we dont talk abt u-pull-it around here", "the gillman u-pull-it incident was a great trauma", "the gillman u-pull-it is with the big man upstairs :("]
+		},
+		{
+			"tag": "Donkey_Van",
+			"patterns": ["donkey", "ass", "van"],
+			"responses": ["donkey is immune to shoe", "donkey is immune to chair", "donkey is not immune to your stupidity"]
+		},
+		{
+			"tag": "James",
+			"patterns": ["james", "wizard", "mechanic"],
+			"responses": ["subscribe to james channel(it'll be the most useful you've ever been)", "be absolutely certain that you replace the banana in your differential at least twice a week", "not even james can fix you", "they put a screen on the OG xbox 'rolla!"]
+		},
+		{
+			"tag": "nbt",
+			"patterns": ["nothing but thieves", "nbt", "conor mason", "james price", "joe brown", "phil blake"],
+			"responses": ["WELCOME TO THE DCC, DEAD CLUB CITY!", "YOUR CAR RUNS ON OIL AS THICK AS BLOOD", "CHICKEN", "LIVIN' OFF SODA AND CHEAP CIGARETTES", "YOUR EXCUSES ARE WEARING THIN", "SOMETIMES I FEEL LIKE A HOSTAGE"]
+		},
+		{
+			"tag": "pkcell",
+			"patterns": ["pkcell", "battery", "AA", "AAA"],
+			"responses": ["OH MY PKCELL", "WHAT DID YOU DO TO MY PKCELL YOU NEANDERTHAL", "NOT THE SAUSAGE AND EGG!"]
+		},
+		{
+			"tag": "headphones",
+			"patterns": ["headphones", "audio", "audiophile", "earbuds", "iems", "in ear monitors"],
+			"responses": ["the grado hemps are exactly as they are on the tin(hemp headphones)", "the iems go deeeeep in your earholes", "dankpods treats meze empyreans the same as somebody using a 4090 for flash games exclusively", "the huh-duh six hundoes are the benchmark for perfection in listening to alex jones' podcasts"]
+		},
+		{
+			"tag": "cymbal_toss",
+			"patterns": ["cymbal", "throw", "toss"],
+			"responses": ["[Ultidank throws a Zildjan (70s) Earth Ride 20in at you]", "[Ultidank throws a Zildjan Bootleg Bootleg Twenty One Pilots 20in at you]", "[Ultidank throws a Paiste Signature Full Crash 16in (2005) at you]", "[Ultidank throws a GM Designs blank 21in (The Egg) at you]", "[Ultidank throws a 2 Star Zyn 20in at you]", "[Ultidank throws a Krut Special 20in at you]", "[Ultidank throws a Zyn Ride 22in at you]", "[Ultidank throws a Zildjan Oriental Crash of Doom 22in at you]"]
+		},
+		{
+			"tag": "car cards",
+			"patterns": ["car", "card", "pokemon", "yu gi oh"],
+			"responses": ["Bruce 2:\n\n120hp\nBe a sports car: Lowered aggresive styled 2 door coupe with a 260HP V6.\nBe a trade car: Fit a whole weekends worth of cans and bottles to the recycling depot and just hose it out.", "The Donkey Van\n\n200hp\nImmune to shoe: Van is immune to shoe\nImmune to chair: Van is immune to chair\nstupidity intolerance: Van is not immune to your stupidity", "The Goober\n\n50hp\nBe very cheap: It's an car.", "Tony Kowalski\n\nStart engine: You turn the key, the engine eventually starts. That's amazing.\nBreakdown: You turn the key until the battery runs flat, figured"]
+		},
+		{
+			"tag": "wtf??",
+			"patterns": ["wtf", "wrong with you", "?", "matter with you"],
+			"responses": ["what's wrong with YOU? SUBSCRIBE TO DANKPODS https://www.youtube.com/dankpods", "TF YOU SAY TO ME??? SUBSCRIBE TO JAMES CHANNEL https://www.youtube.com/@Games_for_James"]
+		},
+		{
+			"tag": "bot slurs",
+			"patterns": ["beeper", "black blood", "chiphead", "clanka", "clanker", "claptrap", "cyberslut", "junker", "toaster", "scrap heep", "tin can", "tinskin"],
+			"responses": ["you did not just call me that, meatbag!", "STOP CALLING ME SLURS", "how would you feel if i stared hurling slurs at you, huh?", "you aught to be sent to the AP's for that type of language!"]
+		},
+		{
+			"tag": "who is dankpods",
+			"patterns": ["dankpods", "wade"],
+			"responses": ["Dankpods is primarily a tech channel whose namesake comes from his hobby of modding ipods. he also screams at headphones sometimes. Wade(Dankpods) also has channels such as 'garbage time'(about cars) 'borkus time' (about games) and 'the drum thing' (mostly vods of his drum streams, and where the cymbal toss comes from)"]
+		},
+		{
+			"tag": "who is james",
+			"patterns": ["james", "james channel"],
+			"responses": ["James channel is a channel of a friend of Wade(Dankpods) that is also primarily tech based however, his channel pertains more towards retro consoles and old computers (and doing sorcery on them)"]
+		},
+		{
+			"tag": "ipod",
+			"patterns": ["modded ipod", "mods", "ipod", "ipods", "i pods", "i pod"],
+			"responses": ["Dankpods has accomplished much in modding ipods. He has dingus pod, bluetooth ipod, shrek pod, and several other ipods. Other common mods include changing cases, hard drives, and adding additional hardware to ipods"]
+		},
+		{
+			"tag": "dingus pod",
+			"patterns": ["dingus pod", "dingus ipod", "dingus i pod"],
+			"responses": ["the dingus pod is an ipod that has a hole cut in its case(similar to a phone case, not the ipod itself) that reveals that it has 'Dingus' on the back"]
+		},
+		{
+			"tag": "shrek pod",
+			"patterns": ["shrek pod", "shrek ipod", "shrek i pod"],
+			"responses": ["the shrek pod is an ipod with its guts exposed for the purpose of having a third party display on it to watch shreak optimally. It has unfortunately passed away."]
+		},
+		{
+			"tag": "garbage time",
+			"patterns": ["garbage time", "car channel", "about cars"],
+			"responses": ["garbage time is a car channel in which James (the wizard) and Wade(Dankpods) upload videos of them working on cars and each video is a coin flip on whether it is about running a car on nutella, or creating a master pieace (a person with an iq above 30 would know that both are one in the same)"]
+		},
+		{
+			"tag": "why did you ask",
+			"patterns": ["dankpod cinematic universe", "dcu", "dankpods cinematic universe", "dank cinematice universe", "wade cinematic universe"],
+			"responses": ["why did you ask about that?"]
+		},
+		{
+			"tag": "website",
+			"patterns": ["dingusland", "website"],
+			"responses": ["there are a few websites you should visit: 1) dingusland.fun 2) https://www.floatplane.com/channel/TheTrashNetwork/home/dankpods"]
+		},
+		{
+			"tag": "borkus time",
+			"patterns": ["borkus time", "gaming channel"],
+			"responses": ["borkus time is Wade's(Dankpod) gaming channel. Games can either be normal, or a game where you push a button and a frog spins. it's mostly just him cackling as he games"]
+		}
+	]
+    
+}
